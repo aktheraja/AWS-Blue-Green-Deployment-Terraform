@@ -12,3 +12,5 @@ then, cd into Terraform3 folder. this is to where we have the LAMBDA function tr
 3. Run aws sns publish --topic-arn arn:aws:sns:(enter your region):(enter you aws id):call-lambda-maybe --message "This is me"
 
 This works perfectly immutable switching from blue to green.
+
+![](data1.png)
