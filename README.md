@@ -13,4 +13,4 @@ then, cd into Terraform3 folder. this is to where we have the LAMBDA function tr
 
 This works perfectly immutable switching from blue to green.
 
-![](data1.png)
+![](data1.jpeg)
